@@ -2,7 +2,7 @@
 
 <!-- Header Image -->
 <div align="center">
-  <img src="header.jpeg" align="center" width="1280" style="border-radius: 20px; display: block; margin: 0 auto;" />
+  <img src="header 1.png" align="center" width="1280" style="border-radius: 20px; display: block; margin: 0 auto;" />
 <!-- <img src="header.jpeg" align="center" width="1280" hieght="300"/> -->
 </div>
 
