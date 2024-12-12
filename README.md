@@ -2,7 +2,7 @@
 
 <!-- Header Image -->
 <div align="center">
-<img src="header.jpeg" align="center" width="1280"/>
+<img src="header.jpeg" align="center" width="1280" hieght="1000"/>
 </div>
 
 ### <div align="center">Full-stack developer 👨‍💻 crafting dynamic websites and robust back-end solutions. 🚀</div>
