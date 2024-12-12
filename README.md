@@ -2,7 +2,8 @@
 
 <!-- Header Image -->
 <div align="center">
-<img src="header.jpeg" align="center" width="1280" hieght="300"/>
+  <img src="header.jpeg" align="center" width="1280" height="300" style="border-radius: 20px; display: block; margin: 0 auto;" />
+<!-- <img src="header.jpeg" align="center" width="1280" hieght="300"/> -->
 </div>
 
 ### <div align="center">Full-stack developer 👨‍💻 crafting dynamic websites and robust back-end solutions. 🚀</div>
